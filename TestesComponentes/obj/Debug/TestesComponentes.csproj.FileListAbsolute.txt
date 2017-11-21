@@ -1,0 +1,8 @@
+c:\users\nova\documents\visual studio 2017\Projects\TestesComponentes\TestesComponentes\bin\Debug\TestesComponentes.exe.config
+c:\users\nova\documents\visual studio 2017\Projects\TestesComponentes\TestesComponentes\bin\Debug\TestesComponentes.exe
+c:\users\nova\documents\visual studio 2017\Projects\TestesComponentes\TestesComponentes\bin\Debug\TestesComponentes.pdb
+c:\users\nova\documents\visual studio 2017\Projects\TestesComponentes\TestesComponentes\obj\Debug\TestesComponentes.csprojResolveAssemblyReference.cache
+c:\users\nova\documents\visual studio 2017\Projects\TestesComponentes\TestesComponentes\obj\Debug\TestesComponentes.Properties.Resources.resources
+c:\users\nova\documents\visual studio 2017\Projects\TestesComponentes\TestesComponentes\obj\Debug\TestesComponentes.csproj.GenerateResource.Cache
+c:\users\nova\documents\visual studio 2017\Projects\TestesComponentes\TestesComponentes\obj\Debug\TestesComponentes.exe
+c:\users\nova\documents\visual studio 2017\Projects\TestesComponentes\TestesComponentes\obj\Debug\TestesComponentes.pdb
